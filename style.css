@@ -2,3 +2,9 @@
   width: 200px;
   height:200px;
 }
+
+#txt_output{
+    border:1px solid black;
+    width:80%;
+    height:10vh;
+}
