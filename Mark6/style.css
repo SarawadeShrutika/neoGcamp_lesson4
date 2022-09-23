@@ -1,0 +1,17 @@
+body{
+    align-content: center;
+    margin:auto;
+    border: 1px solid burlywood;
+    text-align: center;
+    width:300px;
+    margin-top: 5rem;
+}
+#btn_transfer{
+    margin: 1rem;
+}
+#txt_output{
+    margin-bottom: 1rem;
+}
+.white_section{
+    background-color: floralwhite;
+}
