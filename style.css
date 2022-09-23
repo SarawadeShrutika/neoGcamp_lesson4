@@ -1,11 +1,4 @@
-body{
-    align-content: center;
-    margin:auto;
-    border: 1px solid burlywood;
-    text-align: center;
-    width:300px;
-    margin-top: 5rem;
-}
+
 #btn_transfer{
     margin: 1rem;
 }
@@ -14,4 +7,17 @@ body{
 }
 .white_section{
     background-color: floralwhite;
+    border: 1px solid burlywood;
+    width:300px;
+    text-align: center;
+    align-content: center;
+    margin:auto;
+    margin-top: 5rem;  
+}
+.about_section{
+    background-color: yellow;
+    margin-top: 5rem;
+    width: 100%;
+    text-align: center;
+    color: red;
 }
