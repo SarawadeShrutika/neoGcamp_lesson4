@@ -3,7 +3,7 @@ var Txt_area=document.querySelector("#Txt_translate");
 var txt_out=document.querySelector("#txt_output");
 
 function server(Text){
-    return "https://api.funtranslations.com/translate/hodor.json"+ "?" + "text="+Text;
+    return "https://api.funtranslations.com/translate/minion.json"+ "?" + "text="+Text;
 }
 
 function errorHandler(error){
